@@ -34,7 +34,7 @@ Any expected output from `server.js` will be in the `Debug Console` tab at the b
 
 You should now be able to access the Express server at `http://localhost:3001`.
 
-### Starting the React Development Server
+### Starting the Development Server
 
 Open a new Terminal in VS Code and run
 
@@ -74,7 +74,7 @@ Within a session in the app container run
 
 You should now be able to access the Express server at `http://localhost:3001`.
 
-### Starting the React Development Server
+### Starting the Development Server
 
 Within another session in the app container run
 
@@ -82,7 +82,7 @@ Within another session in the app container run
     # or
     npm start
 
-You should now be able to access the React app at `http://localhost:3000`.
+You should now be able to access the app at `http://localhost:3000`.
 
 ### Running everything directly via command line
 
@@ -101,13 +101,13 @@ Next, install all npm modules:
 
 You should now be able to access the Express server at `http://localhost:3001`.
 
-### Starting the React Development Server
+### Starting the Development Server
 
     yarn start
     # or
     npm start
 
-You should now be able to access the React app at `http://localhost:3000`.
+You should now be able to access the app at `http://localhost:3000`.
 
 ## Notes 
 

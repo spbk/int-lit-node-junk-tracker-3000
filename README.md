@@ -63,6 +63,6 @@ When you are finished, push all changes to the repo on GitHub and email us that 
 
 - If you have any issues at all, especially with getting your development environment working, please reach out to us ASAP. Our intention isn't to make you troubleshoot an existing project's configuration. (You wouldn't spend the majority of your work day doing that in real life). We are more than happy to do that for you!
 - Make your first priority getting everything to work! Save the bonus points for after you get things working all the way through.
-- Do not worry about server-side rendering of any JavaScript React components
+- Do not worry about server-side rendering of any JavaScript components
 - Add any additional npm modules or other tools you'd like
 - This project was boostrapped using [Create React App](https://create-react-app.dev/). See [CREATE_REACT_APP_README.md](CREATE_REACT_APP_README.md) for more info on some of the scaffolding.
